@@ -57,8 +57,8 @@ If revisited, I’d consider adding:
 ---
 
 ## Demo & Links  
-- Live Demo: [https://dentalapp.yourdomain.com](#)  
-- Design Source: [Figma Design](#)
+- Live Demo: [https://dentalapp.dental.com](https://dentalapp.dental.com)  
+- Design Source: [Figma Design](https://www.figma.com/design/JZauxmaVcydw1l3IN6OpIg/Dental-Medical-Website-Kit--Community-?node-id=88-200&t=gyEJTdzlcI8W5dXH-1)
 
 ---
 
